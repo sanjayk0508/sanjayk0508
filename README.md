@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sanjayk0508,sanjayk0508&color=44CC11)
+
 
 ---
 
