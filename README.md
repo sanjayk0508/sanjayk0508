@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 </p>
 <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=sanjayk0508&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
 <h3 align="left">SKILLS: </h3>
