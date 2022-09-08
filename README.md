@@ -19,18 +19,19 @@ Here are some ideas to get you started:
 
 ---
 
-#### 📈 My GitHub Statistics
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sanjayk0508&show_icons=true&count_private=true&hide_title=true&theme=dracula)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayk0508&langs_count=6&layout=compact&theme=dracula" />
-</a>
-
 ---
 
 
 </p>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=sanjayk0508&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjayk0508&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayk0508&theme=tokyonight" />
+</p>
 
 
 <h3 align="left">SKILLS: </h3>
