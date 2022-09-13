@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Sanjay, a self-taught Front-end developer. Before teahing myself front-end development i was an UI/UX Designer at a $1.1 million funded retail startup.
+I'm also into Open Source.
 
 <!--
 **sanjayk0508/sanjayk0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
