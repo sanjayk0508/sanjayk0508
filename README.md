@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi, I am Sanjay! Great to see you here! 👋
+
 I'm Sanjay, a self-taught Front-end developer. Before teahing myself front-end development i was an UI/UX Designer at a $1.1 million funded retail startup.
 I'm also into Open Source.
 <p align="center">
