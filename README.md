@@ -1,6 +1,6 @@
 ## Hi, I am Sanjay! Great to see you here! 👋
 
-I'm a self-taught Front-end developer. Before teaching myself front-end development i was an UI/UX Designer at a $1.1 million funded retail startup.
+I'm a self-taught Front-end developer. Before teaching myself coding i was a UI/UX Designer at a $1.1 million funded retail startup.
 I'm also into Open Source as well.
 <p align="center">
 
