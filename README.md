@@ -7,7 +7,7 @@ I'm also into Open Source as well.
 
 </p>
 <br>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=sanjayk0508&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
+
 [![Sanjay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanjayk0508&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
