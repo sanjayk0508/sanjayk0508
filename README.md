@@ -2,6 +2,9 @@
 
 I'm a self-taught Front-end developer. Before teaching myself coding i was a UI/UX Designer at a $1.1 million funded retail startup.
 I'm also into Open Source as well.
+
+I write blogs as a means of articulating my thoughts and sharpening my understanding of various concepts and topics that I learn. https://medium.com/@sanjay_0508
+
 <p align="center">
 
 
