@@ -1,9 +1,8 @@
 ## Hi, I am Sanjay! Great to see you here! 👋
 
-I'm a self-taught Front-end developer. Before teaching myself coding i was a UI/UX Designer at a $1.1 million funded retail startup.
-I'm also into Open Source as well.
+As a self-taught Front-end developer, I bring a unique perspective to my work, having previously worked as a UI/UX Designer. I'm passionate about Open Source and actively participate in its community.
 
-I write blogs as a means of articulating my thoughts and sharpening my understanding of various concepts and topics that I learn. https://medium.com/@sanjay_0508
+I write blogs as a means of articulating my thoughts and sharpening my understanding of various concepts and topics that I learn https://medium.com/@sanjay_0508.
 
 <p align="center">
 
