@@ -1,6 +1,6 @@
 ## Hi, I am Sanjay! Great to see you here! 👋
 
-As a self-taught Front-end developer, I bring a unique perspective to my work, having previously worked as a UI/UX Designer. I'm passionate about Open Source and actively participate in its community.
+As a self-taught Front-end developer, I bring a unique perspective to my work, having previously worked as a UI/UX Designer. I'm passionate about Open Source and actively participate in communities.
 
 I write blogs as a means of articulating my thoughts and sharpening my understanding of various concepts and topics that I learn https://medium.com/@sanjay_0508.
 
